@@ -16,6 +16,12 @@ npm -v
 
 ```
 
+## Clone the repository to your local machine using the following command:
+
+# git clone `https://github.com/ris4911/blogApp.git`
+
+# cd blogApp
+
 ## Run the following command to install the necessary dependencies:
 
 npm install
