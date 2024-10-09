@@ -18,14 +18,19 @@ npm -v
 
 ## Clone the repository to your local machine using the following command:
 
-# git clone `https://github.com/ris4911/blogApp.git`
-
-# cd blogApp
+```bash
+git clone `https://github.com/ris4911/blogApp.git`
+cd blogApp
+```
 
 ## Run the following command to install the necessary dependencies:
 
+```
 npm install
+```
 
 ## Once the dependencies are installed, you can start the development server with the command:
 
+```
 npm run dev
+```
